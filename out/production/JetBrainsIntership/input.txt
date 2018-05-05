@@ -1,0 +1,16 @@
+private String nameOfSymbol(char c) {
+        if (c == ' ') {
+            return "Space";
+        }
+        if (c == '\t') {
+            return "Tabulation";
+        }
+        if (c == '.') {
+            return "Dot";
+        }
+        if (c == '_') {
+            return "Low line";
+        } else {
+            return "Unknown symbol";
+        }
+    }

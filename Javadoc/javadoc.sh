@@ -1,0 +1,1 @@
+Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/bin/javadoc -d "/Users/aleksandra/Desktop/JetBrainsIntership" -link "https://docs.oracle.com/javase/8/docs/api/" -author -private -cp "/Users/aleksandra/Desktop/JetBrainsIntership" "/Users/aleksandra/Desktop/JetBrainsIntership/src/IndentationSize.java"
